@@ -1,0 +1,6 @@
+[package]
+name = "qrs"
+version = "0.1.0"
+authors = ["Steven <stvn.bu@gmail.com>"]
+
+[dependencies]
